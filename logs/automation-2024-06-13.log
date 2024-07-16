@@ -1,0 +1,59 @@
+12:20:19.897 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+12:20:19.908 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+12:20:30.777 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+12:20:30.780 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+12:20:32.125 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:10:29.550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+21:10:33.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:10:33.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:10:33.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:10:37.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:10:37.552 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:10:37.555 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:10:39.813 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:10:40.896 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:10:40.896 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+21:10:44.589 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:10:45.992 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:10:45.996 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:10:56.843 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:10:56.846 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:11:07.752 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:11:07.755 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:11:18.570 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:11:18.573 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:11:19.847 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:40:04.545 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+21:40:07.543 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:40:07.654 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:40:07.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:40:12.075 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:40:12.104 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:40:12.108 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:40:13.973 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:40:14.993 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:40:14.993 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+21:40:18.663 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:40:18.702 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:40:18.732 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:40:18.753 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:40:18.768 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:55:33.493 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+21:55:36.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:55:36.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:55:37.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:55:41.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:55:41.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:55:41.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:55:44.583 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:55:45.637 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:55:45.637 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+21:55:48.960 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:55:49.166 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:55:49.228 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***

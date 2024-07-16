@@ -1,0 +1,57 @@
+18:32:19.871 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\AppData\Local\Temp\testng-eclipse-40897738\testng-customsuite.xml
+
+18:32:19.906 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+18:32:20.128 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4eed46ee: 96 ms
+18:32:20.146 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76c7beb3: 18 ms
+18:32:20.161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@26fb628: 15 ms
+18:32:20.177 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e8f9e2d: 14 ms
+18:32:20.188 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60fa3495: 10 ms
+18:32:20.188 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e2822: 0 ms
+18:32:34.752 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\testng.xml
+
+18:32:37.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:32:37.641 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:32:38.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+18:32:42.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+18:32:42.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+18:32:42.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+18:35:06.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\testng.xml
+
+18:35:08.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:35:08.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:35:09.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+18:35:13.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+18:35:13.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+18:35:13.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+18:35:33.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\testng.xml
+
+18:35:39.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:35:39.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:35:40.116 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+18:35:45.413 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+18:35:55.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+18:36:08.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\testng.xml
+
+18:36:13.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:36:13.111 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:36:13.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+18:36:17.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+18:36:17.681 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+18:36:17.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+18:42:34.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\crossbrowsertests.xml
+
+18:42:37.735 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:42:37.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:42:38.271 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+18:42:42.381 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+18:42:42.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+18:42:42.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+18:42:48.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:42:48.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:42:50.303 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link

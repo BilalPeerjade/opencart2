@@ -1,0 +1,56 @@
+00:25:17.253 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+20:23:16.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\grid-docker.xml
+
+20:23:21.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+20:23:21.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:23:21.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+20:23:26.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+20:23:26.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+20:23:26.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+20:23:28.898 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+20:23:30.098 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+20:23:30.098 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+22:21:07.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:21:08.033 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+22:21:08.412 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+22:21:12.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+22:21:22.654 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+22:21:25.020 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+22:21:26.160 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+22:21:26.160 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+22:21:29.939 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:21:31.432 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:21:31.435 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:21:42.612 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:21:42.613 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:21:53.587 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:21:53.590 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:22:04.490 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:22:04.492 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:22:05.828 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:24:21.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:24:21.795 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+22:24:22.180 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+22:24:26.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+22:24:26.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+22:24:26.538 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+22:24:28.677 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+22:24:29.811 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+22:24:29.811 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+22:24:33.390 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:24:35.003 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:24:35.006 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:24:46.024 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:24:46.026 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:24:56.989 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:24:56.991 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:25:07.983 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+22:25:07.984 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:25:09.343 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+13:37:27.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+13:37:27.369 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:37:27.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+13:37:31.974 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+13:37:32.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+13:37:32.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***

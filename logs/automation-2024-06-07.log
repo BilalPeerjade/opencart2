@@ -1,0 +1,63 @@
+21:43:03.091 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.124 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.147 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.170 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.193 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.215 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.239 [main] ERROR org.apache.poi.ooxml.POIXMLDocumentPart - Skipped invalid entry /xl/cellimages.xml
+21:43:03.281 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:43:05.377 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:43:05.386 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:43:26.229 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:43:47.086 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:44:07.924 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:44:09.204 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:46:16.789 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+21:46:20.701 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:46:22.116 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:46:22.127 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:46:42.916 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:47:03.894 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:47:24.723 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:47:25.990 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:48:43.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+21:48:47.477 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:48:48.963 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+21:48:48.973 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:48:59.106 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:49:19.934 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:49:40.769 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:49:42.027 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:04:42.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+23:04:47.042 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:04:48.405 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:04:48.412 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:05:09.247 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:05:30.052 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:05:51.003 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:05:52.305 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:07:04.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+23:07:08.107 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:07:09.528 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:07:09.537 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:07:30.348 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:07:51.458 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:08:12.302 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:08:13.594 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:09:25.327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+23:09:29.192 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:09:30.613 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+23:09:30.620 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:09:51.406 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:10:12.193 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:10:32.977 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***

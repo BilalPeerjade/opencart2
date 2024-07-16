@@ -1,0 +1,55 @@
+13:37:34.201 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+13:37:35.297 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+13:37:35.297 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+13:37:38.945 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+13:37:40.419 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+13:37:40.421 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+13:37:51.385 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+13:37:51.387 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+13:38:02.281 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+13:38:02.282 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+13:38:13.193 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+13:38:13.194 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+13:38:14.598 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+16:40:23.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+16:40:23.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:40:24.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+16:40:28.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+16:40:28.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+16:40:28.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+16:40:30.708 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+16:40:31.798 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+16:40:31.799 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+16:40:35.341 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:40:36.814 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+16:40:36.815 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:40:47.707 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+16:40:47.708 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:40:58.522 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+16:40:58.523 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:41:09.357 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+16:41:09.358 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:41:10.716 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+17:04:18.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+17:04:18.884 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:04:19.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+17:04:20.818 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Fail
+17:04:22.859 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+17:04:24.002 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+17:04:24.002 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+17:04:27.563 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:04:27.750 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:04:27.772 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:04:27.790 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:04:27.800 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:01:54.182 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+23:01:54.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:01:54.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:01:58.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+23:01:58.979 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+23:01:58.983 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+23:02:03.585 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+23:02:04.642 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+23:02:04.642 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+23:02:10.815 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+23:02:12.268 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***

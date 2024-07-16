@@ -1,0 +1,58 @@
+21:53:28.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:53:29.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:53:29.438 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:53:33.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:53:33.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:53:33.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:53:36.211 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:53:37.405 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:53:37.405 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+21:53:38.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:53:38.607 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Fail
+21:55:46.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\grid-docker.xml
+
+21:55:49.406 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:55:49.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:55:49.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:55:54.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:55:54.309 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:55:54.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:55:56.678 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:55:57.776 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:55:57.777 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+21:55:58.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:55:58.834 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Fail
+21:56:44.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\grid-docker.xml
+
+21:56:46.966 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:56:47.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:56:47.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:56:52.437 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+21:56:52.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+21:56:52.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+21:56:54.857 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+21:56:56.033 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+21:56:56.033 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+00:24:20.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart2\master.xml
+
+00:24:25.269 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:24:25.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+00:24:25.834 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+00:24:30.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked On Continue
+00:24:30.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation Expeted Message...
+00:24:30.452 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Finished TC_001_AccountRegistrationTest ***
+00:24:33.029 [main] INFO  testCases.TC_002_LoginTest - ***Starting TC_002_LoginTest ***
+00:24:34.336 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+00:24:34.337 [main] INFO  testCases.TC_002_LoginTest - ***TC_002_LoginTest finished***
+00:24:39.426 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+00:24:41.265 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+00:24:41.278 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+00:24:52.371 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+00:24:52.379 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+00:25:03.607 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+00:25:03.613 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+00:25:15.663 [main] INFO  testCases.TC_003_LoginDDT - *** Finish TC_003_LoginDDT ***
+00:25:15.675 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
